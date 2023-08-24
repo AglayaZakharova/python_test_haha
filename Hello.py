@@ -1,4 +1,4 @@
 #!/bin/python
 
-print("ABCdD")
+print("ABCD")
 
