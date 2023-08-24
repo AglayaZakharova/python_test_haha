@@ -1,6 +1,6 @@
 #!/bin/python
 
-print("ABCDiiii12111111")
+print("ОГО!")
 
 
 
